@@ -62,7 +62,7 @@ function bubbleChart() {
   var fillColor = d3
     .scaleOrdinal()
     .domain(["down", "flat", "up"])
-    .range(["red", "blue", "green"]);
+    .range(["green", "blue", "red"]);
 
   function createNodes(rawData) {
     var maxAmount = d3.max(rawData, function(d) {
