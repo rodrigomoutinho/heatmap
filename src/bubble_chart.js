@@ -61,7 +61,7 @@ function bubbleChart() {
 
   var fillColor = d3
     .scaleOrdinal()
-    .domain(["down", "flat", "up"])
+    .domain(["baixa", "leve alta", "alta"])
     .range(["red", "green", "blue"]);
 
   function createNodes(rawData) {
