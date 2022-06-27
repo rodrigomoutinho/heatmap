@@ -1,0 +1,33 @@
+stock_ticker,id,sector,total_amount,group,percentage,range
+VALE3,1,Tecnologia,200000,baixa,-2.60%,Abaixo de 2%
+B3SA3,2,Tecnologia,277270,baixa,-3.70%,Abaixo de 2%
+ITUB4,3,Financeiro,360180,baixa,-4.80%,Abaixo de 2%
+PETR4,4,Gasolina,100000,flat,0.85%,Flutuação Normal
+RENT3,Financeiro,100000,leve alta,1.00%,Flutuação Normal
+ELET6,6,Energia,400000,leve alta,1.15%,Flutuação Normal
+TAEE11,7,Energia,600000,leve alta,1.30%,Flutuação Normal
+EMBR3,8,Aviação,250000,leve alta,1.45%,Flutuação Normal
+HAPV3,9,Saude,180033,alta,22.90%,Mais de 2%
+BBAS3,10,Financeiro,101363,alta,4.10%,Mais de 2%
+BBDC3,11,Financeiro,504719,alta,5.30%,Mais de 2%
+JBSS3,12,Financeiro,500000,alta,6.50%,Mais de 2%
+QUAL3,13,Financeiro,450000,baixa,-12.60%,Abaixo de 2%
+BRKM5,14,Tecnologia,300000,baixa,-8.70%,Abaixo de 2%
+HYPE3,15,Servicos,150000,baixa,-4.80%,Abaixo de 2%
+ELET6,16,Servicos,100000,leve alta,-0.32%,Flutuação Normal
+FLRY3,17,Servicos,243000,leve alta,-0.55%,Flutuação Normal
+TAEE11,18,Servicos,138635,leve alta,-0.78%,Flutuação Normal
+ENGI11,19,Saude,50000,leve alta,1.00%,Flutuação Normal
+SANB11,20,Energia,200000,leve alta,1.15%,Flutuação Normal
+LREN3,21,Energia,300000,leve alta,1.30%,Flutuação Normal
+BEEF3,22,Saude,125000,leve alta,1.45%,Flutuação Normal
+GOLL4,23,Aviacao,90016.5,alta,22.90%,Mais de 2%
+GOAU4,24,Servicos,50681.5,alta,4.10%,Mais de 2%
+BRML3,25,Financeiro,252359.5,alta,5.30%,Mais de 2%
+UGPA3,26,Financeiro,250000,alta,6.50%,Mais de 2%
+EQTL3,27,Financeiro,225000,baixa,-12.60%,Abaixo de 2%
+BROT3,28,Tecnologia,150000,baixa,-8.70%,Abaixo de 2%
+CIEL3,29,Servicos,75000,baixa,-4.80%,Abaixo de 2%
+CONG3,30,Servicos,50000,leve alta,-0.32%,Flutuação Normal
+HGTX3,31,Servicos,121500,leva alta,-0.55%,Flutuação Normal
+VIVT4,32,Servicos,138635,leve alta,-0.78%,Flutuação Normal
